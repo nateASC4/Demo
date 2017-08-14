@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+body{
+    background-color: #f8f9fa;
+    font-family: 'Dosis', sans-serif;
+    color:#600538;
+}
+.navbar-brand{
+    color:white;
+}
